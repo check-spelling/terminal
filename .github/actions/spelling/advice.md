@@ -1,4 +1,4 @@
-<!-- markdownlint-disable MD033 MD041 -->
+<!-- See https://github.com/check-spelling/check-spelling/wiki/Configuration-Examples%3A-advice --> <!-- markdownlint-disable MD033 MD041 -->
 <details>
 <summary>
 :pencil2: Contributor please read this
@@ -20,7 +20,7 @@ See the `README.md` in each directory for more information.
 
 :microscope: You can test your commits **without** *appending* to a PR by creating a new branch with that extra change and pushing it to your fork. The [check-spelling](https://github.com/marketplace/actions/check-spelling) action will run in response to your **push** -- it doesn't require an open pull request. By using such a branch, you can limit the number of typos your peers see you make. :wink:
 
-<details><summary>:clamp: If you see a bunch of garbage</summary>
+<details><summary>:clamp: If the flagged items do not appear to be text</summary>
 
 If it relates to a ...
 <details><summary>well-formed pattern</summary>
@@ -34,9 +34,9 @@ https://www.regexplanet.com/advanced/perl/) yours before committing to verify it
 
 Note that patterns can't match multiline strings.
 </details>
-<details><summary>binary-ish string</summary>
+<details><summary>binary file</summary>
 
-Please add a file path to the `excludes.txt` file instead of just accepting the garbage.
+Please add a file path to the `excludes.txt` file matching the containing file.
 
 File paths are Perl 5 Regular Expressions - you can [test](
 https://www.regexplanet.com/advanced/perl/) yours before committing to verify it will match your files.

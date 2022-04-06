@@ -122,6 +122,7 @@ NOREPEAT
 NOTIFYBYPOS
 NOTIFYICON
 NOTIFYICONDATA
+nowait
 ntprivapi
 oaidl
 ocidl

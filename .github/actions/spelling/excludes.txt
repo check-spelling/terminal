@@ -1,12 +1,20 @@
+# See https://github.com/check-spelling/check-spelling/wiki/Configuration-Examples:-excludes
 (?:(?i)\.png$)
+(?:^|/)(?i)COPYRIGHT
+(?:^|/)(?i)LICEN[CS]E
 (?:^|/)dirs$
 (?:^|/)go\.mod$
 (?:^|/)go\.sum$
+(?:^|/)package(?:-lock|)\.json$
 (?:^|/)package-lock\.json$
 (?:^|/)sources(?:|\.dep)$
+(?:^|/)vendor/
+ignore$
 SUMS$
 \.ai$
+\.avi$
 \.bmp$
+\.bz2$
 \.cer$
 \.class$
 \.crl$
@@ -18,6 +26,7 @@ SUMS$
 \.eps$
 \.exe$
 \.gif$
+\.gitattributes$
 \.graffle$
 \.gz$
 \.icns$
@@ -30,12 +39,15 @@ SUMS$
 \.lock$
 \.map$
 \.min\..
+\.mod$
 \.mp3$
 \.mp4$
+\.ocf$
 \.otf$
 \.pbxproj$
 \.pdf$
 \.pem$
+\.png$
 \.psd$
 \.runsettings$
 \.sig$
@@ -46,6 +58,7 @@ SUMS$
 \.tgz$
 \.ttf$
 \.vsdx$
+\.wav$
 \.woff
 \.xcf$
 \.xls
@@ -79,4 +92,5 @@ SUMS$
 ^tools/ReleaseEngineering/ServicingPipeline.ps1$
 ^\.github/actions/spelling/
 ^\.gitignore$
+^\Qsrc/host/ft_host/chafa.txt\E$
 ^\XamlStyler.json$
