@@ -941,7 +941,7 @@ public:                                                                         
 
     // After parsing
 
-    /// Thrown when counting a non-existent option
+    /// Thrown when counting a nonexistent option
     class OptionNotFound : public Error
     {
         CLI11_ERROR_DEF(Error, OptionNotFound)
@@ -5471,7 +5471,7 @@ namespace CLI
         bool allow_extras_{ false };
 
         /// If ignore, allow extra arguments in the ini file (ie, don't throw an error). INHERITABLE
-        /// if error error on an extra argument, and if capture feed it to the app
+        /// If error, error on an extra argument. If capture, feed it to the app.
         config_extras_mode allow_config_extras_{ config_extras_mode::ignore };
 
         ///  If true, return immediately on an unrecognized option (implies allow_extras) INHERITABLE

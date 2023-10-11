@@ -1845,7 +1845,7 @@ bool OurReader::decodeNumber(Token& token, Value& decoded) {
     const auto digit(static_cast<Value::UInt>(c - '0'));
     if (value >= threshold) {
       // We've hit or exceeded the max value divided by 10 (rounded down). If
-      // a) we've only just touched the limit, meaing value == threshold,
+      // a) we've only just touched the limit, meaning value == threshold,
       // b) this is the last digit, or
       // c) it's small enough to fit in that rounding delta, we're okay.
       // Otherwise treat this number as a double to avoid overflow.
@@ -2471,7 +2471,7 @@ static std::unique_ptr<T> cloneUnique(const std::unique_ptr<T>& p) {
   return r;
 }
 
-// This is a walkaround to avoid the static initialization of Value::null.
+// This is a workaround to avoid the static initialization of Value::null.
 // kNull must be word-aligned to avoid crashing on ARM.  We use an alignment of
 // 8 (instead of 4) as a bit of future-proofing.
 #if defined(__ARMEL__)
