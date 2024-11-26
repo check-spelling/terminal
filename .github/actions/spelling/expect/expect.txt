@@ -2,7 +2,6 @@ aaaaabbb
 aabbcc
 ABANDONFONT
 abbcc
-ABCDEFGHIJKLMNOPQRSTUVWXY
 ABCF
 abgr
 ABORTIFHUNG
@@ -27,7 +26,6 @@ AImpl
 AInplace
 ALIGNRIGHT
 allocing
-allocs
 alpc
 ALTERNATENAME
 ALTF
@@ -50,7 +48,6 @@ APIENTRY
 apiset
 APPBARDATA
 appcontainer
-appium
 appletname
 applicationmodel
 APPLMODAL
@@ -62,10 +59,8 @@ APrep
 apsect
 APSTUDIO
 archeologists
-Argb
 ARRAYSIZE
 ARROWKEYS
-asan
 ASBSET
 ASetting
 ASingle
@@ -77,7 +72,6 @@ aumid
 Authenticode
 AUTOBUDDY
 AUTOCHECKBOX
-autocrlf
 autohide
 AUTOHSCROLL
 automagically
@@ -92,9 +86,7 @@ AZZ
 backgrounded
 Backgrounder
 backgrounding
-backported
 backstory
-barbaz
 Bazz
 bbb
 bbccb
@@ -148,8 +140,6 @@ buflen
 buildsystems
 buildtransitive
 BValue
-bytebuffer
-cac
 cacafire
 CALLCONV
 CANDRABINDU
@@ -187,7 +177,6 @@ chh
 chshdng
 CHT
 CLASSSTRING
-CLE
 cleartype
 CLICKACTIVE
 clickdown
@@ -210,8 +199,8 @@ cmw
 CNL
 cnn
 Codeflow
+codenav
 codepages
-codepath
 coinit
 colorizing
 COLORREFs
@@ -221,13 +210,12 @@ colortable
 colortbl
 colortest
 colortool
+COLORVALUE
 combaseapi
 comctl
-commandline
+commandlines
 commctrl
 commdlg
-COMMITID
-componentization
 conapi
 conattrs
 conbufferout
@@ -272,7 +260,6 @@ Consolewait
 CONSOLEWINDOWOWNER
 consrv
 constexprable
-constness
 contentfiles
 conterm
 contsf
@@ -363,15 +350,12 @@ dbh
 dblclk
 Dcd
 DColor
-DCOLORVALUE
 dcommon
-dcompiler
 DComposition
 dde
 DDESHARE
 DDevice
 DEADCHAR
-dealloc
 Debian
 debugtype
 DECAC
@@ -422,7 +406,6 @@ DECPCTERM
 DECPS
 DECRARA
 decrc
-DECRC
 DECREQTPARM
 DECRLM
 DECRPM
@@ -438,7 +421,6 @@ decrst
 DECSACE
 DECSASD
 decsc
-DECSC
 DECSCA
 DECSCNM
 DECSCPP
@@ -464,7 +446,6 @@ DECXCPR
 DEFAPP
 DEFAULTBACKGROUND
 DEFAULTFOREGROUND
-defaultsettings
 DEFAULTTONEAREST
 DEFAULTTONULL
 DEFAULTTOPRIMARY
@@ -479,7 +460,6 @@ DELAYLOAD
 DELETEONRELEASE
 depersist
 deprioritized
-deserializers
 desktopwindowxamlsource
 devicecode
 Dext
@@ -527,7 +507,6 @@ dsm
 dsound
 DSSCL
 DSwap
-DTest
 DTo
 DTTERM
 dup'ed
@@ -563,7 +542,6 @@ enabledelayedexpansion
 ENDCAP
 endptr
 ENTIREBUFFER
-entrypoints
 ENU
 ENUMLOGFONT
 ENUMLOGFONTEX
@@ -577,7 +555,6 @@ esrp
 ESV
 ETW
 EUDC
-EVENTID
 eventing
 evflags
 evt
@@ -626,7 +603,6 @@ FINDDLG
 FINDDOWN
 FINDREGEX
 FINDSTRINGEXACT
-FINDUP
 FITZPATRICK
 FIXEDFILEINFO
 Flg
@@ -660,7 +636,6 @@ Ftm
 Fullscreens
 Fullwidth
 FUNCTIONCALL
-fuzzer
 fuzzmain
 fuzzmap
 fuzzwrapper
@@ -787,7 +762,6 @@ HKCU
 hkey
 hkl
 HKLM
-hlocal
 hlsl
 HMB
 HMK
@@ -797,10 +771,8 @@ hmon
 homoglyph
 hostable
 hostlib
-Hostx
 HPA
 hpcon
-HPCON
 hpen
 HPR
 HProvider
@@ -808,7 +780,7 @@ HREDRAW
 hresult
 hscroll
 hstr
-hstring
+hstrings
 HTBOTTOMLEFT
 HTBOTTOMRIGHT
 HTCAPTION
@@ -828,7 +800,6 @@ HWNDPARENT
 iccex
 ICONERROR
 ICONINFORMATION
-IConsole
 ICONSTOP
 ICONWARNING
 IDCANCEL
@@ -841,12 +812,9 @@ IDR
 idth
 IDTo
 IDXGI
-IEnd
-IEnum
 IFACEMETHODIMP
 ification
 IGNORELANGUAGE
-IHosted
 iid
 IIo
 ILC
@@ -859,7 +827,6 @@ inclusivity
 INCONTEXT
 INFOEX
 inheritcursor
-inheritfrom
 INITCOMMONCONTROLSEX
 INITDIALOG
 initguid
@@ -874,19 +841,14 @@ INSERTMODE
 INTERACTIVITYBASE
 INTERCEPTCOPYPASTE
 INTERNALNAME
-Interner
 intsafe
 INVALIDARG
 INVALIDATERECT
 Ioctl
 ipch
-IProperty
 ipsp
-IShell
-ISwap
 iterm
 itermcolors
-ITerminal
 itf
 Ith
 IUI
@@ -895,7 +857,6 @@ ivalid
 IWIC
 IXP
 jconcpp
-JLO
 JOBOBJECT
 JOBOBJECTINFOCLASS
 JONGSEONG
@@ -916,7 +877,6 @@ keydowns
 KEYFIRST
 KEYLAST
 Keymapping
-keyscan
 keystate
 keyups
 Kickstart
@@ -951,9 +911,6 @@ LCONTROL
 LCTRL
 lcx
 LEFTALIGN
-libsancov
-libtickit
-licate
 LIMITTEXT
 LINEDOWN
 LINESELECTION
@@ -1118,7 +1075,6 @@ msix
 msrc
 MSVCRTD
 MTSM
-Munged
 murmurhash
 muxes
 myapplet
@@ -1230,7 +1186,6 @@ NUKTA
 nullness
 nullonfailure
 nullopts
-numlock
 NUMSCROLL
 NUnit
 nupkg
@@ -1243,7 +1198,6 @@ oemcp
 OEMFONT
 OEMFORMAT
 OEMs
-offboarded
 OLEAUT
 OLECHAR
 onebranch
@@ -1265,7 +1219,6 @@ openconsoleproxy
 openps
 openvt
 ORIGINALFILENAME
-orking
 osc
 OSDEPENDSROOT
 OSG
@@ -1292,7 +1245,6 @@ PAINTSTRUCT
 PALPC
 pankaj
 parentable
-parms
 PATCOPY
 pathcch
 PATTERNID
@@ -1349,7 +1301,6 @@ phicon
 phwnd
 pidl
 PIDLIST
-pids
 pii
 piml
 pimpl
@@ -1377,7 +1328,6 @@ poppack
 POPUPATTR
 popups
 PORFLG
-positionals
 POSTCHARBREAKS
 POSX
 POSXSCROLL
@@ -1401,6 +1351,7 @@ prealigned
 prect
 prefast
 preflighting
+prepopulate
 presorted
 PREVENTPINNING
 PREVIEWLABEL
@@ -1413,7 +1364,6 @@ processenv
 processhost
 PROCESSINFOCLASS
 PRODEXT
-Productize
 PROPERTYID
 PROPERTYKEY
 propertyval
@@ -1429,7 +1379,6 @@ propvarutil
 psa
 PSECURITY
 pseudoconsole
-pseudoterminal
 psh
 pshn
 PSHNOTIFY
@@ -1465,7 +1414,6 @@ QWER
 Qxxxxxxxxxxxxxxx
 qzmp
 RAII
-Ralph
 RALT
 rasterbar
 rasterfont
@@ -1506,8 +1454,6 @@ REGISTERVDM
 regkey
 REGSTR
 RELBINPATH
-remoting
-renamer
 rendersize
 reparented
 reparenting
@@ -1516,7 +1462,6 @@ replatformed
 Replymessage
 reportfileaccesses
 repositorypath
-Requiresx
 rerasterize
 rescap
 RESETCONTENT
@@ -1543,8 +1488,6 @@ RIGHTALIGN
 RIGHTBUTTON
 riid
 ris
-RIS
-roadmap
 robomac
 rodata
 rosetta
@@ -1556,7 +1499,6 @@ rtcore
 RTEXT
 RTLREADING
 Rtn
-ruleset
 runas
 RUNDLL
 runformat
@@ -1574,6 +1516,7 @@ rvpa
 RWIN
 rxvt
 safemath
+sancov
 sba
 SBCS
 SBCSDBCS
@@ -1604,7 +1547,6 @@ SDKDDK
 securityappcontainer
 segfault
 SELCHANGE
-SELECTALL
 SELECTEDFONT
 SELECTSTRING
 Selfhosters
@@ -1692,7 +1634,6 @@ snapcx
 snapcy
 SOLIDBOX
 Solutiondir
-somefile
 sourced
 SRCAND
 SRCCODEPAGE
@@ -1716,7 +1657,6 @@ STARTUPINFOW
 STARTWPARMS
 STARTWPARMSA
 STARTWPARMSW
-stb
 stdafx
 STDAPI
 stdc
@@ -1725,7 +1665,6 @@ STDEXT
 STDMETHODCALLTYPE
 STDMETHODIMP
 STGM
-Stringable
 STRINGTABLE
 strsafe
 STUBHEAD
@@ -1735,8 +1674,6 @@ SUA
 subcompartment
 subkeys
 SUBLANG
-subsystemconsole
-subsystemwindows
 swapchain
 swapchainpanel
 SWMR
@@ -1780,7 +1717,6 @@ tdbuild
 Tdd
 TDelegated
 TDP
-tearoff
 Teb
 Techo
 tellp
@@ -1816,6 +1752,7 @@ texttests
 TFunction
 THUMBPOSITION
 THUMBTRACK
+tickit
 TIcon
 tilunittests
 titlebars
@@ -1823,13 +1760,11 @@ TITLEISLINKNAME
 TJson
 TLambda
 TLDP
-tldr
 TLEN
 TMAE
 TMPF
 TMult
 tmultiple
-TODOs
 tofrom
 tokenhelpers
 toolbars
@@ -1838,14 +1773,12 @@ TOOLWINDOW
 TOPDOWNDIB
 TOpt
 tosign
-touchpad
 tracelogging
 traceviewpp
 trackbar
 trackpad
 transitioning
 Trd
-TREX
 triaged
 triaging
 TRIMZEROHEADINGS
@@ -1881,7 +1814,6 @@ uiacore
 uiautomationcore
 uielem
 UINTs
-ul
 uld
 uldash
 uldb
@@ -1901,7 +1833,6 @@ unk
 unknwn
 UNORM
 unparseable
-Unregistering
 untextured
 UPDATEDISPLAY
 UPDOWN
@@ -1919,7 +1850,6 @@ USEFILLATTRIBUTE
 USEGLYPHCHARS
 USEHICON
 USEPOSITION
-USERDATA
 userdpiapi
 Userp
 userprivapi
@@ -1941,14 +1871,12 @@ Vanara
 vararg
 vclib
 vcxitems
-vectorize
 VERCTRL
 VERTBAR
 VFT
 vga
 vgaoem
 viewkind
-viewports
 VIRAMA
 Virt
 VIRTTERM
@@ -1995,6 +1923,7 @@ wch
 wchars
 WCIA
 WCIW
+wcs
 WCSHELPER
 wcsrev
 wcswidth
@@ -2111,8 +2040,8 @@ wrkstr
 wrl
 wrp
 WRunoff
-wsl
 WSLENV
+WSLs
 wstr
 wstrings
 wsz
@@ -2121,7 +2050,6 @@ WTest
 WTEXT
 WTo
 wtof
-wtoi
 WTs
 WTSOFTFONT
 wtw
@@ -2163,7 +2091,6 @@ XResource
 xsi
 xstyler
 XSubstantial
-xtended
 XTest
 XTPOPSGR
 XTPUSHSGR
