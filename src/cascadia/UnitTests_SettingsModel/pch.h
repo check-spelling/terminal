@@ -28,7 +28,7 @@ Author(s):
 #endif
 
 #include <wil/cppwinrt.h>
-#include <Unknwn.h>
+#include <unknwn.h>
 #include <hstring.h>
 #include <shellapi.h>
 
